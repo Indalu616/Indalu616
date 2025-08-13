@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](https://your-custom-banner-link.com)
+![Header]([https://your-custom-banner-link.com](https://github.com/Indalu616/Indalu616/blob/main/github_header.png))
 
 <!-- Animated Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Robera+Abera;AI+%26+ML+Explorer;Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me
-I'm a **Computer Science** student passionate about **Machine Learning**, **AI**, and **Full-Stack Development**.  
-🌱 Currently exploring **NLP** & **Computer Vision**.  
+I'm a **Software Engineering ** student passionate about **Machine Learning**, **AI**, **Data Science**,and **Full-Stack Development**.  
+
 🤝 Open to collaborating on **open-source projects** and **AI-based applications**.
 
 ---
