@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header]([https://your-custom-banner-link.com](https://github.com/Indalu616/Indalu616/blob/main/github_header.png))
+![Header](https://github.com/Indalu616/Indalu616/blob/main/github_header.png)
 
 <!-- Animated Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Robera+Abera;AI+%26+ML+Explorer;Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
