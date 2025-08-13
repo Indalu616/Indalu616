@@ -2,12 +2,12 @@
 ![Header](https://github.com/Indalu616/Indalu616/blob/main/github_header.png)
 
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Robera+Abera;AI+%26+ML+Explorer;Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Indalu+Kelbesa;AI+%26+ML+Explorer;Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
-I'm a **Software Engineering ** student passionate about **Machine Learning**, **AI**, **Data Science**,and **Full-Stack Development**.  
+I'm a **Software Engineering** student passionate about **Machine Learning**, **AI**, **Data Science**, and **Full-Stack Development**.  
 
 🤝 Open to collaborating on **open-source projects** and **AI-based applications**.
 
@@ -28,24 +28,27 @@ I'm a **Software Engineering ** student passionate about **Machine Learning**, *
 ## 📌 Featured Projects
 | Project | Description | Demo |
 |---------|-------------|------|
-| **AI Travel Assistant** | Azure AI-powered travel planner with hotel, restaurant & attraction search | ![Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
-| **Pronunciation Therapy App** | Web app for real-time pronunciation assessment using Azure AI | ![Demo](https://media.giphy.com/media/l0HlKQxXpt1XhD0Kk/giphy.gif) |
+| **AI Pronunciation Therapy** | Web app for real-time pronunciation assessment using Azure AI | ![Demo](https://media.giphy.com/media/l0HlKQxXpt1XhD0Kk/giphy.gif) |
+| **AI Diamond Price Prediction** | ML-powered web app to predict diamond prices based on multiple features | ![Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
+| **Email Copilot Chrome Extension** | AI assistant to draft, summarize, and improve emails in your browser | ![Demo](https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif) |
+| **SuperPlayYouTube Chrome Extension** | Productivity tool to control and enhance YouTube playback experience | ![Demo](https://media.giphy.com/media/l0MYzA9R5PZ8nX3Y0/giphy.gif) |
+| **Mini Machine Learning Studio App** | Lightweight ML experimentation tool for building and testing models | ![Demo](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif) |
+| **Smart Reader Chrome Extension** | AI-powered reader that summarizes, highlights, and explains web articles | ![Demo](https://media.giphy.com/media/l3vR1XvC8MZqCkD3y/giphy.gif) |
+| **AdBlocker Chrome Extension** | Browser extension to block intrusive ads and trackers | ![Demo](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roba-6734&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roba-6734&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=roba-6734&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indalu616&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indalu616&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Indalu616&theme=tokyonight)
 
 ---
 
-## 🎯 Fun Stuff
-![Snake Animation](https://github.com/roba-6734/roba-6734/blob/output/github-contribution-grid-snake.svg)  
+## 🎯 Fun Stuff 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robera-abera)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Robah3321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indalu-kelbesa-106956293/)
