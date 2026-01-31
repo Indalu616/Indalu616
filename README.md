@@ -28,15 +28,13 @@ I'm a **Software Engineering** student passionate about **Machine Learning**, **
 ## 📌 Featured Projects
 | Project | Description | Demo |
 |---------|-------------|------|
-| **AI Pronunciation Therapy** | Web app for real-time pronunciation assessment using Azure AI | ![Demo](https://media.giphy.com/media/l0HlKQxXpt1XhD0Kk/giphy.gif) |
-| **AI Diamond Price Prediction** | ML-powered web app to predict diamond prices based on multiple features | ![Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
-| **Email Copilot Chrome Extension** | AI assistant to draft, summarize, and improve emails in your browser | ![Demo](https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif) |
-| **SuperPlayYouTube Chrome Extension** | Productivity tool to control and enhance YouTube playback experience | ![Demo](https://media.giphy.com/media/l0MYzA9R5PZ8nX3Y0/giphy.gif) |
-| **Mini Machine Learning Studio App** | Lightweight ML experimentation tool for building and testing models | ![Demo](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif) |
-| **Smart Reader Chrome Extension** | AI-powered reader that summarizes, highlights, and explains web articles | ![Demo](https://media.giphy.com/media/l3vR1XvC8MZqCkD3y/giphy.gif) |
-| **AdBlocker Chrome Extension** | Browser extension to block intrusive ads and trackers | ![Demo](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
-
----
+| **AI Pronunciation Therapy** | Web app for real-time pronunciation assessment using Azure AI 
+| **AI Diamond Price Prediction** | ML-powered web app to predict diamond prices based on multiple features
+| **Email Copilot Chrome Extension** | AI assistant to draft, summarize, and improve emails in your browser
+| **SuperPlayYouTube Chrome Extension** | Productivity tool to control and enhance YouTube playback experience
+| **Mini Machine Learning Studio App** | Lightweight ML experimentation tool for building and testing models
+| **Smart Reader Chrome Extension** | AI-powered reader that summarizes, highlights, and explains web articles
+| **AdBlocker Chrome Extension** | Browser extension to block intrusive ads and trackers 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indalu616&show_icons=true&theme=tokyonight)
